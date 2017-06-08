@@ -1,3 +1,3 @@
-master branch = kubernetes example.
+master branch/docker tag = kubernetes example.
 
-taser branch = Docker example - will run without kubernetes from just the Dockerfile
+taser branch/docker tag = Docker example - will run without kubernetes from just the Dockerfile
